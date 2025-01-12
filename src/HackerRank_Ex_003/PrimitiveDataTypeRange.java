@@ -20,7 +20,7 @@ public class PrimitiveDataTypeRange {
             }
             catch(Exception e)
             {
-                System.out.println(scanner.next()+"Cannot be fittd anywhere.");
+                System.out.println(scanner.next()+"Cannot be fitted anywhere.");
             }
         }
     }
